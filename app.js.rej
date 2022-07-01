@@ -1,0 +1,7 @@
+diff a/app.js b/app.js	(rejected hunks)
+@@ -1,2 +1,2 @@
+ /*app.js 파일*/
+-console.log('pull, nfetch22222');
+\ No newline at end of file
++console.log('pull, nfetch222aa22');
+\ No newline at end of file
