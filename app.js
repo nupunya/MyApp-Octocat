@@ -1,2 +1,2 @@
 /*app.js 파일*/
-console.log('pull, nfetch');
+console.log('pull, nfetch22222');
